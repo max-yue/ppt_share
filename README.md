@@ -1,3 +1,3 @@
 # ppt_share
-* pretrain language model
-* knowledge graph
+
+分享一些我的演讲PPT。
